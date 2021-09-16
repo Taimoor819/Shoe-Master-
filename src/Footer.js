@@ -7,8 +7,8 @@ export const Footer = ()=>{
     return(
         <Grid container  justify='center' style={{marginTop:10, backgroundColor:'#333',color:'white'}}>
             <Grid item>
-                <Typography variant='h6'>Project Made By Abdurrahman Asad <a href='https://github.com/A-ASAD'><GitHubIcon/></a>{' '}
-                <a href='https://pk.linkedin.com/in/abdurrahman-asad-2805741ab'><LinkedInIcon/></a></Typography>
+                <Typography variant='h6'>Project Made By Taimour Qaisar 
+                </Typography>
             </Grid>
         </Grid>
     )
